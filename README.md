@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil e espero achar o que procuras 😁
 
  <div>
    <a href="https://github.com/pandaora1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandaora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaora&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandaora1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaora1&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -13,4 +13,14 @@
 </div>
  
  <br>
- ![Snake animation](https://github.com/pandaora/pandaora/blob/output/github-contribution-grid-snake.svg)
+ 
+  ### 
+ 
+<div> 
+  
+  
+  
+  
+  
+ 
+  ![Snake animation](https://github.com/pandaora1/pandaora1/blob/output/github-contribution-grid-snake.svg)
